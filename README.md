@@ -10,7 +10,7 @@ We will reach out to the top 5 students after results have stabilized.
 
 In your pull request description, you should include:
 
-- The final validation accuracy recorded over the _entire_ vlidation set
+- The final validation accuracy recorded over the _entire_ validation set
 - A link to an associated learning curve that clearly shows wallclock-time.
   You may either upload an image directly
   to the repo (use the [./images](./images)) folder or link to a
