@@ -17,7 +17,7 @@ In your pull request description, you should include:
   publicly-viewable plot from a service like Weights and Biases.
 - A description of what you did
 
-## C4 100 domains validation loss leaderboard
+## Accuracy across the entire MATH validation set
 
 | Name           | Validation Accuracy | Link  | Verification status (leave empty) |
 | :------------- | ------------------: | ----: | --------------------------------: |
