@@ -21,4 +21,5 @@ In your pull request description, you should include:
 
 | Name           | Validation Accuracy | Link  | Verification status (leave empty) |
 | :------------- | ------------------: | ----: | --------------------------------: |
+| Karthik Dharmarajan |              57.70% |   https://wandb.ai/kdharmarajan/cs336-asst5-grpo/reports/CS336-Assignment-5-Leaderboard-Submission--VmlldzoxMzEyNjQ4OQ    |                          |
 | naive baseline |              40.00% |       |                          Verified |
