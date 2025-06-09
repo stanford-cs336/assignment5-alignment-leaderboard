@@ -33,4 +33,5 @@ In your pull request description, you should include:
 | Aryaman Arora          |              47.12% | [Wandb](https://api.wandb.ai/links/aryamanarora/0kka0efp)                                |                                     |
 | Harshvardhan Agarwal   |              43.56% | [Wandb](https://api.wandb.ai/links/tokenization/hnclbrtw)                                |                                     |
 | Ryan Zhao              |              42.48% | [wandb](https://api.wandb.ai/links/knightasterial-stanforduniversity/9sw1cimh)           |                                     |
+| Herumb Shandilya       |              41.26% | [wandb](https://wandb.ai/krypticmouse/cs336-alignment/runs/4n4wsrq4)                     |                                     |
 | naive baseline         |              40.00% |                                                                                          |                          Verified   |
