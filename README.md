@@ -26,6 +26,7 @@ In your pull request description, you should include:
 | Harry Shin             |              60.7%  | [Wandb](https://api.wandb.ai/links/dh2shin2-stanford-university/45vxov1e)                |                                     |
 | Rafael Prado Basto     |              58.59% | [link](./images/val_curves.jpg)                                                          |                                     |
 | Karthik Dharmarajan    |              57.70% | [Wandb](https://api.wandb.ai/links/kdharmarajan/dxmx6vof)                                |                                     |
+| Pinlin [Calvin] Xu     |              56.24% | [Wandb](https://api.wandb.ai/links/pinlinxu-lab/e9t16kjy)                |                                     |
 | Puheng Li              |              55.64% | [Wandb](https://api.wandb.ai/links/puhengli-stanford-university/t3gm8jcd)                |                                     |
 | Joonhyuk Lee           |              51.70% | [Wandb](https://api.wandb.ai/links/joonhyuk-stanford-university/u18wzqc3)                |                                     |
 | Arnuv Tandon           |              50.54% | [Wandb](https://api.wandb.ai/links/arnuv-tandon-stanford-university/f7iq75kw)            |                                     |
