@@ -19,12 +19,13 @@ In your pull request description, you should include:
 
 ## Accuracy across the entire MATH validation set
 
-| Name           | Validation Accuracy | Link  | Verification status (leave empty) |
-| :------------- | ------------------: | ----: | --------------------------------: |
-| Harry Shin | 60.7% | [Wandb](https://api.wandb.ai/links/dh2shin2-stanford-university/45vxov1e) |  |
-| Rafael Prado Basto |              58.59% |  [link](./images/val_curves.jpg)     |                                   |
-| Karthik Dharmarajan |              57.70% |   [Wandb](https://api.wandb.ai/links/kdharmarajan/dxmx6vof)    |                          |
-| Brandon Snider |              48.83% |   [Wandb](https://api.wandb.ai/links/brandon-snider-stanford-university/n8t743my)    |                          |
-| Harshvardhan Agarwal | 43.56% | [Wandb](https://api.wandb.ai/links/tokenization/hnclbrtw) | |
-| Ryan Zhao| 42.48% | [wandb](https://api.wandb.ai/links/knightasterial-stanforduniversity/9sw1cimh) | |
-| naive baseline |              40.00% |       |                          Verified |
+| Name                   | Validation Accuracy | Link                                                                                     | Verification status (leave empty) |
+| :--------------------- | ------------------: | ----------------------------------------------------------------------------------------: | --------------------------------: |
+| Harry Shin             |              60.7%  | [Wandb](https://api.wandb.ai/links/dh2shin2-stanford-university/45vxov1e)                |                                     |
+| Rafael Prado Basto     |              58.59% | [link](./images/val_curves.jpg)                                                          |                                     |
+| Karthik Dharmarajan    |              57.70% | [Wandb](https://api.wandb.ai/links/kdharmarajan/dxmx6vof)                                |                                     |
+| Arnuv Tandon           |              50.54% | [Wandb](https://api.wandb.ai/links/arnuv-tandon-stanford-university/f7iq75kw)            |                                     |
+| Brandon Snider         |              48.83% | [Wandb](https://api.wandb.ai/links/brandon-snider-stanford-university/n8t743my)          |                                     |
+| Harshvardhan Agarwal   |              43.56% | [Wandb](https://api.wandb.ai/links/tokenization/hnclbrtw)                                |                                     |
+| Ryan Zhao              |              42.48% | [wandb](https://api.wandb.ai/links/knightasterial-stanforduniversity/9sw1cimh)           |                                     |
+| naive baseline         |              40.00% |                                                                                           |                          Verified   |
