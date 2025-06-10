@@ -32,7 +32,6 @@ In your pull request description, you should include:
 | Puheng Li              |              58.1%  | [Wandb](https://api.wandb.ai/links/puhengli-stanford-university/t3gm8jcd)                |                                     |
 | Angela Liu             |              58.02% | [Wandb](https://api.wandb.ai/links/aliu917/1d8hco5a)                                     | 
 |
-| Puheng Li              |              58.1%  | [Wandb](https://api.wandb.ai/links/puhengli-stanford-university/t3gm8jcd)                |                                     |
 | Karthik Dharmarajan    |              57.70% | [Wandb](https://api.wandb.ai/links/kdharmarajan/dxmx6vof)                                |                                     |
 | Pinlin (Calvin) Xu     |              56.24% | [Wandb](https://api.wandb.ai/links/pinlinxu-lab/e9t16kjy)                                |                                     |
 | Adam Zhao              |              56.04% | https://api.wandb.ai/links/zhao1adam-stanford-university/xntcnjj7                        |                                     |
