@@ -21,6 +21,7 @@ In your pull request description, you should include:
 
 | Name                   | Validation Accuracy | Link                                                                                     | Verification status (leave empty)   |
 | :--------------------- | ------------------: | ---------------------------------------------------------------------------------------: | ----------------------------------: |
+| Jack Hsieh             |              69.02% | [Wandb SFT](https://wandb.ai/jackellishsieh-stanford-university/cs336-assignment5/run), [Wandb RL](https://wandb.ai/jackellishsieh-stanford-university/cs336-assignment5/runs/86gze96w) | |
 | Tony Ye                |              65.88% | [Wandb](https://api.wandb.ai/links/junzeye-stanford-university/kvl8tyds)                 |                                     |
 | Yihan Lai              |              64.7%  | [Wandb](https://api.wandb.ai/links/ihan-lai0924-stanford-university/yxg3x15l)            |                                     |
 | Stephen Ge             |              63.04% | [Wandb](https://api.wandb.ai/links/stephenge/8ykmfla9)                                   |                                     |
