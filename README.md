@@ -23,6 +23,7 @@ In your pull request description, you should include:
 | :--------------------- | ------------------: | ---------------------------------------------------------------------------------------: | ----------------------------------: |
 | Yihan Lai              |              66.5%  | [Wandb](https://api.wandb.ai/links/ihan-lai0924-stanford-university/yxg3x15l)            |                                     |
 | Tony Ye                |              65.88% | [Wandb](https://api.wandb.ai/links/junzeye-stanford-university/kvl8tyds)                 |                                     |
+| Joonhyuk Lee           |              62.24% | [Wandb](https://api.wandb.ai/links/joonhyuk-stanford-university/u18wzqc3)                |                                     |
 | Prateek Varshney       |              61.5%  | [Wandb](https://api.wandb.ai/links/stanfordcs/i63ohasr)                                  |                                     |
 | Harry Shin             |              60.7%  | [Wandb](https://api.wandb.ai/links/dh2shin2-stanford-university/45vxov1e)                |                                     |
 | Rafael Prado Basto     |              58.59% | [link](./images/val_curves.jpg)                                                          |                                     |
