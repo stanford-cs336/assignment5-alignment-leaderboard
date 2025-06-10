@@ -50,7 +50,7 @@ In your pull request description, you should include:
 | Herumb Shandilya       |              41.26% | [wandb](https://wandb.ai/krypticmouse/cs336-alignment/runs/4n4wsrq4)                     |                                     |
 | naive baseline         |              40.00% |                                                                                          |                          Verified   |
 | William Huang          |              26.36% | [wandb](https://api.wandb.ai/links/abcisosm/ajpz2uhx)                                    |                                     |
-| Brendan McLaughlin     |              11.23% | [wandb](https://api.wandb.ai/links/bmc0407-stanford-university/0gqsojjv)                 |                                     |
+| Brendan McLaughlin     |              24.31% | [wandb](https://api.wandb.ai/links/bmc0407-stanford-university/x51oryek)                 |                                     |
 
 
 
