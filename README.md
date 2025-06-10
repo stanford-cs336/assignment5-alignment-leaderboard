@@ -45,6 +45,7 @@ In your pull request description, you should include:
 | Aryaman Arora          |              47.12% | [Wandb](https://api.wandb.ai/links/aryamanarora/0kka0efp)                                |                                     |
 | Ken Liu                |              44.63% | [Wandb](https://api.wandb.ai/links/kenziyuliu/6yhckuzg)                                  |                                     |
 | Harshvardhan Agarwal   |              43.56% | [Wandb](https://api.wandb.ai/links/tokenization/hnclbrtw)                                |                                     |
+| Tejas Narayanan        |              43.30% | [Wandb](https://api.wandb.ai/links/tejas-narayanan/que2rb47)                             |                                     |
 | Ryan Zhao              |              42.48% | [wandb](https://api.wandb.ai/links/knightasterial-stanforduniversity/9sw1cimh)           |                                     |
 | Shiny Weng             |              41.60% | [wandb](https://api.wandb.ai/links/shinyweng-stanford-university/4eekl42h)               |                                     |
 | Herumb Shandilya       |              41.26% | [wandb](https://wandb.ai/krypticmouse/cs336-alignment/runs/4n4wsrq4)                     |                                     |
