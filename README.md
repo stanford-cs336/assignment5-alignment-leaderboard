@@ -22,8 +22,8 @@ In your pull request description, you should include:
 | Name                   | Validation Accuracy | Link                                                                                     | Verification status (leave empty)   |
 | :--------------------- | ------------------: | ---------------------------------------------------------------------------------------: | ----------------------------------: |
 | Tony Ye                |              65.88% | [Wandb](https://api.wandb.ai/links/junzeye-stanford-university/kvl8tyds)                 |                                     |
-| Suze van Adrichem      |              63.78% | [Wandb](https://api.wandb.ai/links/suzevana/phue1ynz)                                    |                                     | 
 | Yihan Lai              |              64.7%  | [Wandb](https://api.wandb.ai/links/ihan-lai0924-stanford-university/yxg3x15l)            |                                     |
+| Suze van Adrichem      |              63.78% | [Wandb](https://api.wandb.ai/links/suzevana/phue1ynz)                                    |                                     | 
 | Stephen Ge             |              63.04% | [Wandb](https://api.wandb.ai/links/stephenge/8ykmfla9)                                   |                                     |
 | Joonhyuk Lee           |              62.24% | [Wandb](https://api.wandb.ai/links/joonhyuk-stanford-university/u18wzqc3)                |                                     |
 | Prateek Varshney       |              61.5%  | [Wandb](https://api.wandb.ai/links/stanfordcs/i63ohasr)                                  |                                     |
@@ -35,7 +35,6 @@ In your pull request description, you should include:
 | Karthik Dharmarajan    |              57.70% | [Wandb](https://api.wandb.ai/links/kdharmarajan/dxmx6vof)                                |                                     |
 | Pinlin (Calvin) Xu     |              56.24% | [Wandb](https://api.wandb.ai/links/pinlinxu-lab/e9t16kjy)                                |                                     |
 | Adam Zhao              |              56.04% | https://api.wandb.ai/links/zhao1adam-stanford-university/xntcnjj7                        |                                     |
-| Suze van Adrichem      |              53.68% | [Wandb](https://api.wandb.ai/links/suzevana/ivy9vchh)                                    |                                     | 
 | Ayush Alag             |              53.66% | [Wandb](https://api.wandb.ai/links/ayushalag1-stanford-university/esgwckyy)              |                                     |
 | Ashish Rao             |              53.42% | [Wandb](https://api.wandb.ai/links/aprao/74u866hy)                                       |                                     | 
 | Joonhyuk Lee           |              51.70% | [Wandb](https://api.wandb.ai/links/joonhyuk-stanford-university/u18wzqc3)                |                                     |
