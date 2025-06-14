@@ -37,6 +37,7 @@ In your pull request description, you should include:
 | Suze van Adrichem      |              53.68% | [Wandb](https://api.wandb.ai/links/suzevana/ivy9vchh)                                    |                                     | 
 | Ayush Alag             |              53.66% | [Wandb](https://api.wandb.ai/links/ayushalag1-stanford-university/esgwckyy)              |                                     |
 | Ashish Rao             |              53.42% | [Wandb](https://api.wandb.ai/links/aprao/74u866hy)                                       |                                     | 
+| Kaitlyn Wang           |              51.76% | [link](./images/leaderboardgrpo.png)                                                     |                                     |
 | Joonhyuk Lee           |              51.70% | [Wandb](https://api.wandb.ai/links/joonhyuk-stanford-university/u18wzqc3)                |                                     |
 | Varun Desai            |              50.90% | [Wandb](https://api.wandb.ai/links/vdesai10/eru40f6k)                                    |                                     |
 | Angikar Ghosal         |              50.80% | [Wandb](https://api.wandb.ai/links/angikar-stanford-university/tutxloah)                 |                                     |
@@ -49,5 +50,4 @@ In your pull request description, you should include:
 | Shiny Weng             |              41.60% | [wandb](https://api.wandb.ai/links/shinyweng-stanford-university/4eekl42h)               |                                     |
 | Herumb Shandilya       |              41.26% | [wandb](https://wandb.ai/krypticmouse/cs336-alignment/runs/4n4wsrq4)                     |                                     |
 | naive baseline         |              40.00% |                                                                                          |                          Verified   |
-| Kaitlyn Wang           |              30.02% | [wandb](https://api.wandb.ai/links/kaitwang-stanford-university/avgflftq)                |
 | William Huang          |              26.36% | [wandb](https://api.wandb.ai/links/abcisosm/ajpz2uhx)                                    |                                     |
