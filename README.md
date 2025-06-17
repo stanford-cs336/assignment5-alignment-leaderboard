@@ -19,13 +19,20 @@ In your pull request description, you should include:
 
 ## Accuracy across the entire MATH validation set
 
+=======
 | Name                   | Validation Accuracy | Link                                                                                     | Verification status (leave empty)   |
 | :--------------------- | ------------------: | ---------------------------------------------------------------------------------------: | ----------------------------------: |
 | Ayush Agrawal          |              69.44% | [Wandb](https://api.wandb.ai/links/ayushag2410/ji8tbq0r)                                 |                                     |
+| Christine Ye           |              68.75% | [Wandb](https://api.wandb.ai/links/christineye/lang8cr9)                                  |                                     |
 | Tony Ye                |              65.88% | [Wandb](https://api.wandb.ai/links/junzeye-stanford-university/kvl8tyds)                 |                                     |
 | Yihan Lai              |              64.7%  | [Wandb](https://api.wandb.ai/links/ihan-lai0924-stanford-university/yxg3x15l)            |                                     |
+| Jay Shenoy             |              64.64% | [Wandb](https://api.wandb.ai/links/jayshenoy-stanford-university/c188azwi)            |                                     |
+| Suze van Adrichem      |              63.78% | [Wandb](https://api.wandb.ai/links/suzevana/phue1ynz)                                    |                                     | 
 | Stephen Ge             |              63.04% | [Wandb](https://api.wandb.ai/links/stephenge/8ykmfla9)                                   |                                     |
+| Hongyue Li             |              62.4% | [image](image_upload.png)                                   |                                     |
 | Joonhyuk Lee           |              62.24% | [Wandb](https://api.wandb.ai/links/joonhyuk-stanford-university/u18wzqc3)                |                                     |
+| Divija Hasteer         |              62.07% | [Wandb](https://api.wandb.ai/links/dhasteer-stanford-university/3k3gvwts)                |                                     |
+| Michael Bereket        |              61.8%  | [Wandb](https://api.wandb.ai/links/mbereket/lhc83n35)                                    |                                     |
 | Prateek Varshney       |              61.5%  | [Wandb](https://api.wandb.ai/links/stanfordcs/i63ohasr)                                  |                                     |
 | Harry Shin             |              60.7%  | [Wandb](https://api.wandb.ai/links/dh2shin2-stanford-university/45vxov1e)                |                                     |
 | Kyler Wang             |              58.92% | [Wandb](https://api.wandb.ai/links/kylerwang-stanford-university/jnlags7e  )             |                                     |
@@ -33,20 +40,29 @@ In your pull request description, you should include:
 | Puheng Li              |              58.1%  | [Wandb](https://api.wandb.ai/links/puhengli-stanford-university/t3gm8jcd)                |                                     |
 | Angela Liu             |              58.02% | [Wandb](https://api.wandb.ai/links/aliu917/1d8hco5a)                                     |                                     |
 | Karthik Dharmarajan    |              57.70% | [Wandb](https://api.wandb.ai/links/kdharmarajan/dxmx6vof)                                |                                     |
+| Ramgopal Venkateswaran |              57.38% | [Wandb](https://api.wandb.ai/links/ramvenkat98/dplett9b)                                 |                                     |
 | Pinlin (Calvin) Xu     |              56.24% | [Wandb](https://api.wandb.ai/links/pinlinxu-lab/e9t16kjy)                                |                                     |
 | Adam Zhao              |              56.04% | https://api.wandb.ai/links/zhao1adam-stanford-university/xntcnjj7                        |                                     |
-| Suze van Adrichem      |              53.68% | [Wandb](https://api.wandb.ai/links/suzevana/ivy9vchh)                                    |                                     | 
+| Sally Zhu      |              53.96% | [Wandb](https://wandb.ai/sallyzhu-stanford-university/a5-grpo/reports/a5--VmlldzoxMzE1ODUyOQ)     |
 | Ayush Alag             |              53.66% | [Wandb](https://api.wandb.ai/links/ayushalag1-stanford-university/esgwckyy)              |                                     |
-| Ashish Rao             |              53.42% | [Wandb](https://api.wandb.ai/links/aprao/74u866hy)                                       |                                     | 
+| Ashish Rao             |              53.42% | [Wandb](https://api.wandb.ai/links/aprao/74u866hy)                                       |                                     |
+| Joshua Kazdan          |              53.28% | [Wandb](https://wandb.ai/joshteam/grpo-math-sweep/runs/b31ouvue?nw=nwuserjkazdan)        |                                     |
+| Ziqing Huang           |              52.48% | [Wandb](https://api.wandb.ai/links/ziqingh-stanford-university/n5va9niu)||
 | Joonhyuk Lee           |              51.70% | [Wandb](https://api.wandb.ai/links/joonhyuk-stanford-university/u18wzqc3)                |                                     |
+| Matthew Noto           |              50.96% | [Wandb](https://api.wandb.ai/links/backpropt/j8dh03fd)                |                                     |
 | Varun Desai            |              50.90% | [Wandb](https://api.wandb.ai/links/vdesai10/eru40f6k)                                    |                                     |
 | Angikar Ghosal         |              50.80% | [Wandb](https://api.wandb.ai/links/angikar-stanford-university/tutxloah)                 |                                     |
+| Milan Rohatgi          |              50.78% | [Wandb](https://wandb.ai/milanrohatgi/grpo_math_training/reports/A5--VmlldzoxMzE1ODMwMA) |                                     |
 | Arnuv Tandon           |              50.54% | [Wandb](https://api.wandb.ai/links/arnuv-tandon-stanford-university/f7iq75kw)            |                                     |
+| Krish Parikh           |              50.11% | [link](./images/accuracybytime.png)                                                      |                                     |
 | Brandon Snider         |              48.83% | [Wandb](https://api.wandb.ai/links/brandon-snider-stanford-university/n8t743my)          |                                     |
 | Aryaman Arora          |              47.12% | [Wandb](https://api.wandb.ai/links/aryamanarora/0kka0efp)                                |                                     |
+| Radostin Cholakov      |              46.06% | [WandB](https://api.wandb.ai/links/radi-cho/b23747e2)                                    |                                     |
 | Ken Liu                |              44.63% | [Wandb](https://api.wandb.ai/links/kenziyuliu/6yhckuzg)                                  |                                     |
 | Harshvardhan Agarwal   |              43.56% | [Wandb](https://api.wandb.ai/links/tokenization/hnclbrtw)                                |                                     |
+| Tejas Narayanan        |              43.30% | [Wandb](https://api.wandb.ai/links/tejas-narayanan/que2rb47)                             |                                     |
 | Ryan Zhao              |              42.48% | [wandb](https://api.wandb.ai/links/knightasterial-stanforduniversity/9sw1cimh)           |                                     |
+| Christopher Chou       |              42.44% | [wandb](https://api.wandb.ai/links/babychousr-stanford-university/qnk0qr0t)              |                                     |
 | Shiny Weng             |              41.60% | [wandb](https://api.wandb.ai/links/shinyweng-stanford-university/4eekl42h)               |                                     |
 | Herumb Shandilya       |              41.26% | [wandb](https://wandb.ai/krypticmouse/cs336-alignment/runs/4n4wsrq4)                     |                                     |
 | naive baseline         |              40.00% |                                                                                          |                          Verified   |
