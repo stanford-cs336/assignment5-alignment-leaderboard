@@ -19,7 +19,6 @@ In your pull request description, you should include:
 
 ## Accuracy across the entire MATH validation set
 
-=======
 | Name                   | Validation Accuracy | Link                                                                                     | Verification status (leave empty)   |
 | :--------------------- | ------------------: | ---------------------------------------------------------------------------------------: | ----------------------------------: |
 | Ayush Agrawal          |              69.44% | [Wandb](https://api.wandb.ai/links/ayushag2410/ji8tbq0r)                                 |                                     |
