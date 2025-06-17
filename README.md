@@ -26,8 +26,8 @@ In your pull request description, you should include:
 | Jack Hsieh             |              69.02% | [Wandb SFT](https://wandb.ai/jackellishsieh-stanford-university/cs336-assignment5/run), [Wandb RL](https://wandb.ai/jackellishsieh-stanford-university/cs336-assignment5/runs/86gze96w) | |
 | Christine Ye           |              68.75% | [Wandb](https://api.wandb.ai/links/christineye/lang8cr9)                                  |                                     |
 | atj10               |              67.12% | [Wandb](https://api.wandb.ai/links/dabs/ccfyp22x)                 |                                     |
+| Yihan Lai              |              66.5%  | [Wandb](https://api.wandb.ai/links/ihan-lai0924-stanford-university/yxg3x15l)            |                                     |
 | Tony Ye                |              65.88% | [Wandb](https://api.wandb.ai/links/junzeye-stanford-university/kvl8tyds)                 |                                     |
-| Yihan Lai              |              64.7%  | [Wandb](https://api.wandb.ai/links/ihan-lai0924-stanford-university/yxg3x15l)            |                                     |
 | Jay Shenoy             |              64.64% | [Wandb](https://api.wandb.ai/links/jayshenoy-stanford-university/c188azwi)            |                                     |
 | Suze van Adrichem      |              63.78% | [Wandb](https://api.wandb.ai/links/suzevana/phue1ynz)                                    |                                     | 
 | Stephen Ge             |              63.04% | [Wandb](https://api.wandb.ai/links/stephenge/8ykmfla9)                                   |                                     |
