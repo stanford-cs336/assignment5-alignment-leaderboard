@@ -50,6 +50,7 @@ In your pull request description, you should include:
 | Angikar Ghosal         |              50.80% | [Wandb](https://api.wandb.ai/links/angikar-stanford-university/tutxloah)                 |                                     |
 | Milan Rohatgi          |              50.78% | [Wandb](https://wandb.ai/milanrohatgi/grpo_math_training/reports/A5--VmlldzoxMzE1ODMwMA) |                                     |
 | Arnuv Tandon           |              50.54% | [Wandb](https://api.wandb.ai/links/arnuv-tandon-stanford-university/f7iq75kw)            |                                     |
+| Krish Parikh           |              50.11% | [link](./images/accuracybytime.png)                                                      |                                     |
 | Brandon Snider         |              48.83% | [Wandb](https://api.wandb.ai/links/brandon-snider-stanford-university/n8t743my)          |                                     |
 | Aryaman Arora          |              47.12% | [Wandb](https://api.wandb.ai/links/aryamanarora/0kka0efp)                                |                                     |
 | Radostin Cholakov      |              46.06% | [WandB](https://api.wandb.ai/links/radi-cho/b23747e2)                                    |                                     |
