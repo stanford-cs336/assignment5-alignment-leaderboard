@@ -19,6 +19,7 @@ In your pull request description, you should include:
 
 ## Accuracy across the entire MATH validation set
 
+=======
 | Name                   | Validation Accuracy | Link                                                                                     | Verification status (leave empty)   |
 | :--------------------- | ------------------: | ---------------------------------------------------------------------------------------: | ----------------------------------: |
 | Tony Ye                |              65.88% | [Wandb](https://api.wandb.ai/links/junzeye-stanford-university/kvl8tyds)                 |                                     |
@@ -32,6 +33,7 @@ In your pull request description, you should include:
 | Puheng Li              |              58.1%  | [Wandb](https://api.wandb.ai/links/puhengli-stanford-university/t3gm8jcd)                |                                     |
 | Angela Liu             |              58.02% | [Wandb](https://api.wandb.ai/links/aliu917/1d8hco5a)                                     |                                     |
 | Karthik Dharmarajan    |              57.70% | [Wandb](https://api.wandb.ai/links/kdharmarajan/dxmx6vof)                                |                                     |
+| Ramgopal Venkateswaran |              57.38% | [Wandb](https://api.wandb.ai/links/ramvenkat98/dplett9b)                                 |                                     |
 | Pinlin (Calvin) Xu     |              56.24% | [Wandb](https://api.wandb.ai/links/pinlinxu-lab/e9t16kjy)                                |                                     |
 | Adam Zhao              |              56.04% | https://api.wandb.ai/links/zhao1adam-stanford-university/xntcnjj7                        |                                     |
 | Suze van Adrichem      |              53.68% | [Wandb](https://api.wandb.ai/links/suzevana/ivy9vchh)                                    |                                     | 
