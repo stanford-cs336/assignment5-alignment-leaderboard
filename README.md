@@ -46,6 +46,7 @@ In your pull request description, you should include:
 | Ayush Alag             |              53.66% | [Wandb](https://api.wandb.ai/links/ayushalag1-stanford-university/esgwckyy)              |                                     |
 | Ashish Rao             |              53.42% | [Wandb](https://api.wandb.ai/links/aprao/74u866hy)                                       |                                     |
 | Joshua Kazdan          |              53.28% | [Wandb](https://wandb.ai/joshteam/grpo-math-sweep/runs/b31ouvue?nw=nwuserjkazdan)        |                                     |
+| Ziqing Huang           |              52.48% | [Wandb](https://api.wandb.ai/links/ziqingh-stanford-university/n5va9niu)||
 | Joonhyuk Lee           |              51.70% | [Wandb](https://api.wandb.ai/links/joonhyuk-stanford-university/u18wzqc3)                |                                     |
 | Matthew Noto           |              50.96% | [Wandb](https://api.wandb.ai/links/backpropt/j8dh03fd)                |                                     |
 | Varun Desai            |              50.90% | [Wandb](https://api.wandb.ai/links/vdesai10/eru40f6k)                                    |                                     |
