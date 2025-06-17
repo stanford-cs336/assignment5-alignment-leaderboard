@@ -62,6 +62,7 @@ In your pull request description, you should include:
 | Radostin Cholakov      |              46.06% | [WandB](https://api.wandb.ai/links/radi-cho/b23747e2)                                    |                                     |
 | Ken Liu                |              44.63% | [Wandb](https://api.wandb.ai/links/kenziyuliu/6yhckuzg)                                  |                                     |
 | Harshvardhan Agarwal   |              43.56% | [Wandb](https://api.wandb.ai/links/tokenization/hnclbrtw)                                |                                     |
+| Katherine Li           |              43.46% | [wandb](https://api.wandb.ai/links/crfm-kathli/h4cmu8ue)                                 |                                     |
 | Tejas Narayanan        |              43.30% | [Wandb](https://api.wandb.ai/links/tejas-narayanan/que2rb47)                             |                                     |
 | Ryan Zhao              |              42.48% | [wandb](https://api.wandb.ai/links/knightasterial-stanforduniversity/9sw1cimh)           |                                     |
 | Christopher Chou       |              42.44% | [wandb](https://api.wandb.ai/links/babychousr-stanford-university/qnk0qr0t)              |                                     |
