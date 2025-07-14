@@ -19,12 +19,12 @@ In your pull request description, you should include:
 
 ## Accuracy across the entire MATH validation set
 
-| Name                   | Validation Accuracy | Link                                                                                     | Verification status (leave empty)   |
+| Name                   | Validation Accuracy | Link                                                                                     | Rank after Verification   |
 | :--------------------- | ------------------: | ---------------------------------------------------------------------------------------: | ----------------------------------: |
 | Christine Ye           |              68.75% | [Wandb](https://api.wandb.ai/links/christineye/lang8cr9)                                  |                                     |
-| atj10               |              67.12% | [Wandb](https://api.wandb.ai/links/dabs/ccfyp22x)                 |                                     |
-| Yihan Lai              |              66.5%  | [Wandb](https://api.wandb.ai/links/ihan-lai0924-stanford-university/yxg3x15l)            |                                     |
-| Tony Ye                |              65.88% | [Wandb](https://api.wandb.ai/links/junzeye-stanford-university/kvl8tyds)                 |                                     |
+| atj10               |              67.12% | [Wandb](https://api.wandb.ai/links/dabs/ccfyp22x)                 | 2nd                                    |
+| Yihan Lai              |              66.5%  | [Wandb](https://api.wandb.ai/links/ihan-lai0924-stanford-university/yxg3x15l)            | 3rd                                    |
+| Tony Ye                |              65.88% | [Wandb](https://api.wandb.ai/links/junzeye-stanford-university/kvl8tyds)                 | 1st                                    |
 | Jay Shenoy             |              64.64% | [Wandb](https://api.wandb.ai/links/jayshenoy-stanford-university/c188azwi)            |                                     |
 | Ayush Agrawal          |              64.28% | [Wandb](https://api.wandb.ai/links/ayushag2410/jga22x3l)                                 |                                     |
 | Suze van Adrichem      |              63.78% | [Wandb](https://api.wandb.ai/links/suzevana/phue1ynz)                                    |                                     | 
